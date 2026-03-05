@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+@plugin "daisyui";
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
